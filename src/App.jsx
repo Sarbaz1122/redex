@@ -24,7 +24,7 @@ function App() {
         <AddTodo />
         <Todo />
       </div>
-    </div>
+</div>
     </>
   );
 }
